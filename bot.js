@@ -3,8 +3,8 @@ var SteamTotp = require("steam-totp");
 var client = new SteamUser();
 
 client.logOn({
-  accountName: "accountName",
-  password: "password",
+  accountName: "epicfloppa2",
+  password: "Godrules4344",
   //twoFactorCode: SteamTotp.generateAuthCode("if_you_have_twoFactorCode")
 });
 
