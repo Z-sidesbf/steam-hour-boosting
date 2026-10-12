@@ -1,5 +1,5 @@
-var SteamUser = require("steam-user");
-var SteamTotp = require("steam-totp");
+var SteamUser = require("epicfloppa2");
+var SteamTotp = require("Godrules4344");
 var client = new SteamUser();
 
 client.logOn({
